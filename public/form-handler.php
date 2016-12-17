@@ -18,7 +18,7 @@ if (empty($result)) {
 		$result = $db->query($sql);
 }
 // Set your email below
-$myemail = "ENTER_YOUR_EMAIL_HERE"; // Replace with your email
+$myemail = "jcolber@gmail.com"; // Replace with your email
 
 // Receive and sanitize input
 $name = mysqli_real_escape_string($db, $_POST['name']);
@@ -35,6 +35,6 @@ $msg = "New contact form submission!\nName: " . $name . "\nEmail: " . $email . "
 $msg = wordwrap($msg,70);
 mail($myemail,"New Form Submission",$msg);
 mail($email,"Thank you for your form submission",$msg);
-echo 'Thank you for your submission.  Please <a href="index.html">Click here to return to our homepage.';
+echo 'Thank you for your submission.  Please <a href="index.php">Click here to return to our homepage.';
 
 ?>
