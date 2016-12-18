@@ -27,5 +27,5 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+    <meta name="google-site-verification" content="iXVrcU-urWKo_2LqE9dt2OQV9akWy-madlqX-q39JTc" />
 </head>
