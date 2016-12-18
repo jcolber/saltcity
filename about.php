@@ -11,12 +11,12 @@
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">About
-                        <strong>business casual</strong>
+                        <strong>Salt City Garage Doors</strong>
                     </h2>
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="img/slide-2.jpg" alt="">
+                    <img class="img-responsive img-border-left" src="img/logo.png" alt="">
                 </div>
                 <div class="col-md-6">
                     <p>This is a great place to introduce your company or project and describe what you do.</p>
@@ -37,27 +37,42 @@
                     <hr>
                 </div>
                 <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <!-- <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
                         <small>Job Title</small>
-                    </h3>
+                    </h3> -->
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/Justen.jpg" alt="Justen Keesling">
                     <h3>Justen Keesling
-                        <small>Job Title</small>
+                        <small>Owner/Technician</small>
                     </h3>
+                    <div class="box">
+                        <div class="col-lg-12">
+                            <hr>
+                            <h2 class="intro-text text-center">Contact
+                                <strong></strong>
+                            </h2>
+                            <hr>
+                        </div>
+                
+                        <div class="col-md-4 text-center">
+                            <p>Phone:
+                                <strong><a href="tel:1-801-888-4359">801.888.4359</a></strong>
+                            </p>
+                            <p>Email:
+                                <strong><a href="mailto:josh@saltcitygaragedoors.com">justen@saltcitygaragedoors.com</a></strong>
+                            </p>
+                            <!-- <p>Address:
+                                <strong>595 N. Columbus St.
+                                    <br>Salt Lake City, UT 84103</strong>
+                            </p> -->
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
                 </div>
-                <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
-                    </h3>
-                </div>
-                <div class="clearfix"></div>
             </div>
         </div>
-
     </div>
     <!-- /.container -->
 

@@ -36,6 +36,21 @@ hr {
     border-color: #999999;
 }
 
+.google-maps{
+    position:relative;
+    padding-bottom:75%;
+    height:0;
+    overflow:hidden;
+}
+
+.google-maps iframe{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
 .brand,
 .address-bar {
     display: none;
@@ -44,6 +59,12 @@ hr {
 .address-bar a{
     text-decoration: none;
     color:white;
+}
+
+.areas a{
+    text-decoration: none;
+    color:white;
+    font-size: 16pt;
 }
 
 .navbar-brand {
