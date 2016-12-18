@@ -19,9 +19,9 @@
                     <img class="img-responsive img-border-left" src="img/logo.png" alt="">
                 </div>
                 <div class="col-md-6">
-                    <p>This is a great place to introduce your company or project and describe what you do.</p>
-                    <p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.</p>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                    <p>We're a small, local company that strives to take the best possible care of our neighbors in Utah.</p>
+                    <p>We strongly believe in same day service and will do our best to get you out of your bind. We also offer 24/7 Emercency services.</p>
+                    <p>Our promise to you is to never sell what you don't need and to always have a smiling friendly technician knocking at your door doing quality honest work. Scroll down to see who we are and you'll always know who will be coming because we call every customer 15 minutes before we arrive.</p>
                 </div>
                 <div class="clearfix"></div>
             </div>

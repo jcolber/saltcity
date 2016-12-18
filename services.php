@@ -29,7 +29,7 @@
                     This will not only prevent any damage caused by the breaking of the second spring, 
                     but also keep your door working efficiently. If you have a broken garage door spring, or other issue effecting your garage door's performance, 
                     don't hesitate to contact Salt City Garage Doors at <a href="tel:1-801-888-4359" class="linked-phone-number" data-page="Services-Springs">801.888.4359</a> for competitive prices and reliable, guaranteed service.</a></p>
-                    <a href="tel:1-801-280-3667" class="btn btn-default btn-lg">Call Us</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <br>
@@ -48,7 +48,7 @@
                     home or business, only the best will do. To us, that means getting the right
                     equipment and having it properly installed, giving you the peace of mind that it will work how it should when you need it to.
                     Call us for a quote, or to have one installed, you won't regret it! Call now to schedule an appointment </p>
-                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <br>
@@ -78,7 +78,7 @@
                     danger to your family or property. We will also lubricate rollers, hinges and springs, adjust springs to balance your door,
                     check down force and safety reverse on your opener.Due to the intricacy of garage door systems, only garage service professionals
                     should attempt to adjust, repair, or service door equipment. Call us today for fast friendly service!</p>
-                    <a href="#" class="btn btn-default btn-lg">Call Today</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <br>
@@ -93,7 +93,7 @@
                     motor hum and have no movement of your door, you might need to have your openers gears replaced.
                     while other companies might offer to replace the entire operator, we will always recommend a fix
                     before a costly replacement. Contact us today for a quote or to schedule an appointment.</p>
-                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <br>
@@ -109,7 +109,7 @@
                     call us to replace them. Never touch any part associated with the springs or cables because they can cause injury or death. A quick call to 
                     Salt City Garage Doors could save you from an unneeded visit to the hospital. We're also Utah's #1 same day service company, so you can get out of your bind
                     and on with your day.</p>
-                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <br>
@@ -123,7 +123,7 @@
                     <p>Salt City Garage Doors is your one stop shop for garage door opener accessories. If you're looking
                     for a new garage door remote, keyless entry, or a MyQ setup to run your garage remotely, we have all the accessories
                     you need and on hand in our fully stocked vehicles.</p>
-                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <div class="col-lg-12 text-center">
@@ -133,7 +133,7 @@
                         <small></small>
                     </h2>
                     <p>Our service technicians carry a wide range of parts and accessories to make sure the job is done right the first time. We will never upsell you something you don't need and will always show you what we would reccomend and why. So if you need a garage door repair, don't hesitate to call for a free estimate.</p>
-                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
                 <br>
@@ -146,7 +146,7 @@
                     </h2>
                     <p>Is your garage door waking up the neighbors? It could be time to change
                     your old steel rollers out for a new set of 13 ball bearing, nylon rollers. Call now to schedule an appointment or get an instant quote.</p>
-                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+                    <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
             </div>
