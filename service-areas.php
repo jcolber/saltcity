@@ -5,7 +5,7 @@
 <?php include('navbar.php'); ?>
 
 <div class="container" itemscope itemtype=”http://schema.org/LocalBusiness”>
-            <div class="areas col-xs-3 col-xs-offset-3">
+            <div class="areas col-xs-4 col-xs-offset-4">
                 <ul>
                     <li><a href="#" data-toggle="modal" data-target="#afModal">
                         <span itemprop="areaServed">American Fork, UT</span>    
