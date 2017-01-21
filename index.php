@@ -83,8 +83,8 @@
                                 <strong>Why we do what we do</strong>
                             </h2>
                             <hr>
-                            <p>They say, you should always do what you love and next to my family, I love to fix things and make people happy. I however do not love being forced to charge an unreasonable amount of money for a simple fix, which is why I decided to go into business for myself.</p>
-                            <p>We promise to try and fix what others so quickly want to replace and charge more for. We also believe in only selling quality products that we would only install in our own homes. We will also listen to your garage door issue and make sure its not something that can be worked out over the phone to save you a service call. I know when I need something fixed I would rather do it myself with a little advise to save a few bucks. But if that isn't the case, we are always more than happy to come out and fix your garage door.</p>
+                            <p>They say, you should always do what you love and next to my family, We love to fix things and make people happy.</p>
+                            <p>Our promise is to try and fix what others so quickly want to replace and charge more for. We also believe in only selling quality products that we would only install in our own homes. You can always expect us to arrive in the given time frame, as well as recieve a phone call 15 minutes before our arrival.</p>
                         </div>
                     </div>
                 </div>
