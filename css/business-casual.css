@@ -226,3 +226,34 @@ footer p {
         clear: both;
     }
 }
+
+/*.social{
+    position: absolute;
+    margin-left: auto;
+    text-align: center;
+    
+}
+.social img{
+    max-height: 150px;
+    min-width: 150px;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: center;
+    vertical-align: middle
+    }*/
+
+
+
+.social li {
+    float:left;
+    list-style:none; 
+    margin-left:auto;
+    display:inline;
+}
+
+
+.social img{
+    max-width:50px;
+    text-align:center;
+    vertical-align: middle;
+}

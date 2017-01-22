@@ -1,7 +1,14 @@
     <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
+        <!-- <div class="container"> -->
+            <!-- <div class="row"> -->
+                <div class="social col-xs-12" >
+                    <ul>
+                        <li><a href="facebook.com/saltcitygaragedoors" target="blank"><img class="img-responsive" src="/img/facebook.png" alt="Facebook"></a></li>
+                        <li><a href="plus.google.com/saltcitygaragedoors" target="blank"><img class="img-responsive" src="/img/google-plus.png" alt="Google Plus"></a></li>
+                    </ul>
+                </div>
+              
+                <div class="col-xs-12 text-center">
                     <p>Copyright &copy; Salt City Garage Doors 
                         <script language="javascript" type="text/javascript">
                             var today = new Date()
@@ -9,9 +16,10 @@
                             document.write(year)
                         </script>
                     </p>
+
                 </div>
-            </div>
-        </div>
+            <!-- </div> -->
+        <!-- </div> -->
     </footer>
 
     <!-- jQuery -->
