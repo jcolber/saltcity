@@ -132,7 +132,7 @@
                         <br>
                         <small></small>
                     </h2>
-                    <p>Our service technicians carry a wide range of parts and accessories to make sure the job is done right the first time. We will never upsell you something you don't need and will always show you what we would reccomend and why. So if you need a garage door repair, don't hesitate to call for a free estimate.</p>
+                    <p>Our service technicians carry a wide range of parts and accessories to make sure the job is done right the first time. We will never up-sell you something you don't need and will always show you what we would recommend and why. So if you need a garage door repair, don't hesitate to call for a free estimate.</p>
                     <a href="tel:1-801-888-4359" class="btn btn-default btn-lg">Call Us</a>
                     <hr>
                 </div>
