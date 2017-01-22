@@ -243,17 +243,37 @@ footer p {
     }*/
 
 
-
+/*.social ul{
+    display:inline-block;
+}
 .social li {
     float:left;
     list-style:none; 
-    margin-left:auto;
     display:inline;
-}
 
+}
+*/
 
 .social img{
     max-width:50px;
     text-align:center;
     vertical-align: middle;
+
 }
+    .wrapper {
+        text-align: center;
+    }
+    .wrapper ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        /* For IE, the outcast */
+        zoom:1;
+        *display: inline;
+    }
+    .wrapper li {
+        float: left;
+        padding: 2px 5px;
+        /*border: 1px solid black;*/
+        list-style: none;
+    }
