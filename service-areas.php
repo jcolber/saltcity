@@ -62,7 +62,7 @@
                         </li>
                     </ul>
                 </div>       
-                <div class="areas col-xs-3">
+                <div class="areas col-xs-6">
                     <ul>        
                         <li><a href="#" data-toggle="modal" data-target="#millcreekModal">
                            <span itemprop="areaServed">Millcreek, UT</span>    
