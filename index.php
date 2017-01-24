@@ -68,14 +68,14 @@
                             <div class="col-lg-12">
                                     <hr>
                                     <h2 class="intro-text text-center"><a href="services.php">Services
-                                        <strong>What we offer</strong>
+                                        <strong>What we offer</strong></a>
                                     </h2>
                                     <hr>
                                     <img class="img-responsive img-border img-left" src="img/offtrack.jpg" alt="Crooked Garage Door. Broken Garage Door Cable. Garage Door Repair">
                                     <hr class="visible-xs">
                                     <p>We at Salt City Garage Doors, believe that making your garage door safe is as important as making it function. For this reason, all of our garage door repairs and tune-ups feature a complete safety check. 
                                     Our service technicians will carefully examine your garage door springs, safety sensors, hardware, track, and more. <p>This ensures that our work been done well, and that your garage door poses no danger to your family or property. We will always lubricate rollers, hinges, bearings and springs. We'll also adjust garage springs to balance your door and make sure your garage door openers safety reverse system is working. <p>Due to the intricacy of garage door systems, only garage service professionals
-                                    should attempt to adjust, repair, or service door equipment. Call us today for fast friendly service!<a href="tel:1-801-888-4359" class="linked-phone-number" data-page="Services-TuneUp">  801.888.4359</p></a></a>
+                                    should attempt to adjust, repair, or service door equipment. Call us today for fast friendly service!<a href="tel:1-801-888-4359" class="linked-phone-number">  801.888.4359</p></a>
                             </div>
                         </div>
                     </div>
