@@ -99,6 +99,7 @@
                 <!-- /.container -->
 
                 <?php include('footer.php'); ?>
+            </span>
         </div>
     </body>
 
