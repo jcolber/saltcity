@@ -2,7 +2,8 @@
 <html lang="en">
     <head>
         <?php include('head.php'); ?>
-        <title>Salt City Garage Door Spring Repair, Serving the Greater Salt Lake area, Sandy, Riverton, West Jordan, Herriman, Bountiful, Cottonwood Heights, Murray, Midvale, Northern Utah</title>
+        <title>Salt City Garage Door Spring Repair</title>
+        <meta name="description" content="Serving the Greater Salt Lake area, Sandy, Riverton, West Jordan, Herriman, Bountiful, Cottonwood Heights, Murray, Midvale, Northern Utah">
     </head>
     <body>
     <?php include_once("analyticstracking.php") ?>

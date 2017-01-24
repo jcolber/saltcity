@@ -2,7 +2,8 @@
 <html lang="en">
     <head>
         <?php include('head.php'); ?>
-        <title>About Salt City Garage Doors, Garage Door Repair and Service Professionals</title>
+        <title>Salt Lake City's Leading Garage Door Repair Service</title>
+        <meta name="description" content="About Salt City Garage Doors, Garage Door Repair and Service Professionals">
     </head>
     <body>
     <?php include_once("analyticstracking.php") ?>

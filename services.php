@@ -2,7 +2,8 @@
 <html lang="en">
     <head>
         <?php include('head.php'); ?>
-        <title>Garage DOor Repair, Garage Door installation, Garage Door Opener Repair and Installation</title>
+        <title>Salt City Garage Doors, Same Day Garage Door Repair</title>
+        <meta name="description" content="Garage Door Repair, Garage Door installation, Garage Door Opener Repair and Installation, Same Day Broken Spring Service">
     </head>
     <body>
         <?php include_once("analyticstracking.php") ?>

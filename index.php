@@ -2,7 +2,8 @@
 <html lang="en">
     <head>
         <?php include('head.php'); ?>
-        <title>Salt City Garage Doors, Utah's Best Garage Door Repair and Service Company</title>
+        <title>Salt City Garage Doors, Northern Utah Garage Door Service.</title>
+        <meta name="description" content="Utah's Best Garage Door Repair and Service Company. Specializing in Broken Spring Repair, Garage Door Cables, New Garage Door Price, Garage Door Broken Spring Price and Repair Quotes.">
     </head>
     <body>
         <div itemscope itemtype="http://schema.org/Service">
